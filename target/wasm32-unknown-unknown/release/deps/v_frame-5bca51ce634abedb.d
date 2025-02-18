@@ -1,0 +1,11 @@
+/Users/dale8nson/dev/image_optimiser/target/wasm32-unknown-unknown/release/deps/libv_frame-5bca51ce634abedb.rmeta: /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/lib.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/frame.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/math.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/pixel.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/plane.rs
+
+/Users/dale8nson/dev/image_optimiser/target/wasm32-unknown-unknown/release/deps/libv_frame-5bca51ce634abedb.rlib: /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/lib.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/frame.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/math.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/pixel.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/plane.rs
+
+/Users/dale8nson/dev/image_optimiser/target/wasm32-unknown-unknown/release/deps/v_frame-5bca51ce634abedb.d: /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/lib.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/frame.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/math.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/pixel.rs /Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/plane.rs
+
+/Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/lib.rs:
+/Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/frame.rs:
+/Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/math.rs:
+/Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/pixel.rs:
+/Users/dale8nson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/v_frame-0.3.8/src/plane.rs:
